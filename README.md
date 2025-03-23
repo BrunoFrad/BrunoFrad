@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Olá 👋, me chamo Bruno</h1>
+<h3 align="center">Sou um estudante de Redes de Computadores do CEFET-MG!</h3>
 
+- ⚡ Atualmente estou participando do [GCC - Grupo de Computação Competitiva](https://www.instagram.com/gcc.cefetmg/)
+
+- 🌱 Estou estudando **C++, Next.js e Algoritmos e Estruturas de Dados**
+
+- 📫 Se quiser falar comigo, mande um e-mail para **brunfradrib@gmail.com**
+
+<h2 align="center">Skills Front-End 🚀</h2>
+
+- Desenvolvimento de sites estáticos com **HTML e CSS**  
+- Estilização responsiva com **Tailwind CSS**  
+- Uso de **JavaScript e React** para sites dinâmicos  
+
+<h2 align="center">Outras Skills ⭐</h2>
+
+- Inglês intermediário  
+- Conhecimento intermediário da linguagem **C++**
 <!--
 **BrunoFrad/BrunoFrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
