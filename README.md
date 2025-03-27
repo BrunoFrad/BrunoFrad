@@ -3,7 +3,7 @@
 
 - ⚡ Atualmente estou participando do [GCC - Grupo de Computação Competitiva](https://www.instagram.com/gcc.cefetmg/)
 
-- 🌱 Estou estudando **C++, Next.js e Algoritmos e Estruturas de Dados**
+- 🌱 Estou estudando **C++, Angular e Algoritmos e Estruturas de Dados**
 
 - 📫 Se quiser falar comigo, mande um e-mail para **brunfradrib@gmail.com**
 
@@ -11,11 +11,11 @@
 
 - Desenvolvimento de sites estáticos com **HTML e CSS**  
 - Estilização responsiva com **Tailwind CSS**  
-- Uso de **JavaScript e React** para sites dinâmicos  
+- Uso de **JavaScript** para sites dinâmicos  
 
 <h2 align="center">Outras Skills ⭐</h2>
 
 - Inglês intermediário  
-- Conhecimento intermediário da linguagem **C++**
+- Conhecimento básico da linguagem **C++**
 <!--
 **BrunoFrad/BrunoFrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
