@@ -3,7 +3,7 @@
 
 - ⚡ Atualmente estou participando do [GCC - Grupo de Computação Competitiva](https://www.instagram.com/gcc.cefetmg/)
 
-- 🌱 Estou estudando **C++, Angular e Algoritmos e Estruturas de Dados**
+- 🌱 Estou estudando **C++, Vue.js e Algoritmos e Estruturas de Dados**
 
 - 📫 Se quiser falar comigo, mande um e-mail para **brunfradrib@gmail.com**
 
