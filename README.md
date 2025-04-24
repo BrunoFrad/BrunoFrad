@@ -5,7 +5,7 @@
 
 - 🌱 Estou estudando **C++, Vue.js e Algoritmos e Estruturas de Dados**
 
-- 📫 Se quiser falar comigo, mande um e-mail para **brunfradrib@gmail.com**
+- 📫 Se quiser falar comigo, mande um e-mail para **brunfradrib@outlook.com**
 
 <h2 align="center">Skills Front-End 🚀</h2>
 
