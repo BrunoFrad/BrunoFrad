@@ -12,7 +12,7 @@
 - Desenvolvimento de sites estáticos com **HTML e CSS**  
 - Estilização responsiva com **Tailwind CSS**  
 - Uso de **TypeScript** para sites dinâmicos  
-- Uso de Bibliotecas de Componentes UI no **shadcn/ui**
+- Uso da Biblioteca de Componentes UI **shadcn/ui**
 
 <h2 align="center">Outras Skills ⭐</h2>
 
