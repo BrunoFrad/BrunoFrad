@@ -18,7 +18,5 @@
 
 - Inglês intermediário  
 - Conhecimento básico da linguagem **C++**
-- Uso do **Prisma ORM**
-- Uso de **Axios**
 <!--
 **BrunoFrad/BrunoFrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
