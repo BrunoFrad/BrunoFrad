@@ -1,8 +1,6 @@
 <h1 align="center">Olá 👋, eu me chamo Bruno</h1>
 <h3 align="center">Sou um estudante de Redes de Computadores do CEFET-MG!</h3>
 
-- ⚡ Atualmente estou participando do [GCC - Grupo de Computação Competitiva](https://www.instagram.com/gcc.cefetmg/)
-
 - 🌱 Estou estudando **C++, Next.js e Algoritmos e Estruturas de Dados**
 
 - 📫 Se quiser falar comigo, mande um e-mail para **brunfradrib@outlook.com**
