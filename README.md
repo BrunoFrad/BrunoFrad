@@ -1,20 +1,15 @@
-<h1 align="center">Olá 👋, eu me chamo Bruno</h1>
-<h3 align="center">Sou um estudante de Redes de Computadores do CEFET-MG!</h3>
+<h1 align="center">Hi 👋, I'm Bruno</h1>
+<h3 align="center">18-year-old Computer Networks student at CEFET</h3>
 
-- 🌱 Estou estudando **C++, Next.js e Algoritmos e Estruturas de Dados**
+* 🌱 Currently studying **C++ and Data Structures**
+* 💻 Passionate about **Linux** and low-level programming
+* 🧠 Main language: **C** — currently learning **C++** and planning to explore **Rust**
+* 🌍 Fluent in **Portuguese** and **English (B2 level)**
+* 📫 Contact me at: **[brunfradrib@gmail.com](mailto:brunfradrib@gmail.com)**
 
-- 📫 Se quiser falar comigo, mande um e-mail para **brunfradrib@outlook.com**
+<h2 align="center">Main Skills ⭐</h2>
 
-<h2 align="center">Skills Front-End 🚀</h2>
-
-- Desenvolvimento de sites estáticos com **HTML e CSS**  
-- Estilização responsiva com **Tailwind CSS**  
-- Uso de **TypeScript** para sites dinâmicos  
-- Uso da Biblioteca de Componentes UI **shadcn/ui**
-
-<h2 align="center">Outras Skills ⭐</h2>
-
-- Inglês intermediário  
-- Conhecimento básico da linguagem **C++**
-<!--
-**BrunoFrad/BrunoFrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* C (main language)
+* C++ (learning)
+* Data Structures & Algorithms
+* Linux (advanced user)
